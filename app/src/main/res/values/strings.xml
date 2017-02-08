@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">"World's Best Places to Visit "</string>
+    <string name="reef1">"As one of the Seven Natural Wonders of the World,
+the Great Barrier Reef holds a spot on every traveler's bucket list.
+ Hugging the east coast of Queensland, Australia, the Great Barrier Reef
+ extends from Cape York in the north all the way to Bundaberg in the south — a total of 1,250 miles.
+With roughly 3,000 coral reefs, 600 islands and 1,625 species of fish, the reef leaves its 1.6 million annual visitors enchanted."
+</string>
+    <string name="reef2">"But before diving in, it's important to get your bearings.
+The northern half of the reef runs from the Cape York Peninsula to Cairns,
+a popular home base for many reef visitors.
+Not only does Cairns provide the closest reef access from the mainland,
+ but it also boasts a few attractions of its own, like the Kuranda Scenic Railway and the Wildlife Habitat Port Douglas.
+ Travel farther down the coast and you'll run into the southern half of the reef,
+ which stretches from the Capricorn Coast (along the Tropic of Capricorn) to Gladstone and Fraser Island.
+ Airlie Beach is a favored hub for travelers in the south thanks to its
+ array of stylish resorts and its close proximity to a cluster of 74 islands known as the Whitsundays."</string>
+
+    <string name="paris1">"The City of Light draws millions of visitors every year with its unforgettable ambiance.
+ Of course, the divine cuisine and vast art collections deserve some of the credit as well.
+ The gentle River Seine rambles through the city, flanked by stately museums,
+ centuries-old churches, and blocks of Rococo- and Neoclassic-design architecture,
+ further enhanced by charming trees and glowing streetlamps.
+ Peppering the Seine's cobbled walks and graceful bridges are impossibly chic Parisians,
+ probably on their way to the market, cafe or cinema."</string>
+
+    <string name="paris2">" Containing world-class museums, fashion, cuisine, and an atmosphere all its own,
+ Paris is also a city of "many splendors," as Ernest Hemingway recalled in his memoir, "A Moveable Feast."
+ Visit the Centre Pompidou, enjoy gourmet pastries,
+ shop couture on the Champs Élysées or hit the boutiques in Les Halles, take in the view atop the Eiffel Tower,
+ or even plan a day trip to Versailles Palace.
+ But don't miss out on the simple pleasure of meandering the marvelous arrondissements (districts)."
+ </string>
+
+    <string name="bora">
+"The small island of Bora Bora (just 6 miles long and more than 2 miles wide) overflows with beauty.
+Dormant volcanoes rise up at its center and fan out into lush jungle before spilling into an aquamarine lagoon.
+In fact, author James Michener, who wrote "Tales of the South Pacific," called Bora Bora "the most beautiful island in the world."
+The 18th-century British explorer James Cook even coined it as the "pearl of the Pacific."
+The very definition of a tropical getaway,
+blissful Bora Bora abounds with luxurious resorts, sunny skies, warm waters and friendly locals."</string>
+
+    <string name="florence">"This little city, tucked amid the Tuscan hills, casts a long shadow through history.
+The wellspring of the Renaissance, 
+Firenze (or Florence) sheltered the powerful Medici family and inspired artists
+ like Michelangelo (David) and Brunelleschi (the Duomo). 
+ If it weren't for the fashionable Italians and 
+ chic shops lining Via Tornabuoni, you might think you had traveled back in time to the 14th century. 
+ But Renaissance art is not the only reason to come: You also visit Florence for its gorgeous sunsets, 
+its Italian cooking and its unbeatable romantic charm."</string>
+    
+    <string name="tokyo1">""Animated" is perhaps the best word to describe Tokyo.
+Crazy about its anime,Japan's mega city is constantly buzzing with movement—feet clack down sidewalks,
+cars zoom along streets, subway trains hum below ground, ships cruise in and out.
+And yet bright lights and loud signs beg you to pause,
+to break your motion for just one second to pray (oops, we mean pay) at the altar of consumerism.
+This is a city that feeds on motion and progress."</string>
+    <string name="tokyo2">"But when you want to stop in Tokyo, the city will certainly make it worth your while.
+The tech savvy locales may whizz past the monuments and 
+urban parks daily (except during the cherry blossom season when everyone floods the green space), 
+but, we assure you, the museums and historical sites are world-class. 
+Here, there are photos to be taken, sushi to be eaten, and a lot of shopping to be done. 
+So what are you waiting for? 
+You better get a move on."</string>
+    
+    <string name="Rome">"Rome, the city of seven hills, enjoyed a mythic beginning.
+Romulus and Remus — twin brothers who were nursed by a she-wolf and 
+fathered by a war god — reportedly founded the Eternal City. 
+And although historians are a little skeptical about this epic entry into the world, 
+most travelers are absolutely certain that there is something magical about Rome. 
+Whether it's the mystery of nearby Vatican City or the ghosts of the Colosseum, 
+an afternoon caffè on Piazza Navona or a piled-high plate of pasta at a trattoria, Roma is sure to enchant."</string>
+    
+    <string name="cape">
+"Sporty, stylish, stunning, sociable… If Cape Town was a person,
+it would be that Hollywood starlet we all secretly envy. 
+The Mother City is unlike any other destination in Africa: Separated from the rest of the continent by a ring of mountains, 
+Cape Town stands as a glittering, metropolis juxtaposed with one of the world's most breathtaking natural landscapes. 
+But good looks aren't the only thing Cape Town has going for it. You'll fall in love with this city's khaki-colored beaches, 
+rolling vineyards, sizzling cuisine, thriving nightlife, and, of course, the spectacular Table Mountain. 
+It may have taken an international soccer tournament to catch the world's attention, 
+but since Cape Town took the global stage,no amount of buzzing vuvuzelas can drown out its magnificence. "</string>
+    
+    <string name="bercelona">"Barcelona contains both the authentically historic and the wildly bizarre.
+From the tree-lined Las Ramblas to the narrow alleys of Barri Gòtic; 
+from the beachside nightclubs to the city's dozens of sacred churches and cathedrals, 
+this city by the sea seems to attract all types: 
+the family, the adventurer, the couple, the backpacker, 
+the culture lover — and more — with an almost overwhelming variety of things to do. 
+You could stay for a few days, but chances are you'll need a whole week to explore."</string>
+    
+    <string name="amst">"Why Go to Amsterdam
+Don't believe everything you hear about Amsterdam. 
+Yes, this Netherlands city takes a lax look at women beckoning business in the Red Light District 
+and "coffee shops" selling an unorthodox type of herb to a toking clientele, 
+but these descriptions only scratch the surface. 
+At some point, during an excellent Indonesian meal, 
+a twilight canal-side rambling or a shopping excursion through the boutiques of Nine Little Streets, 
+you'll realize – as many travelers have before you – that 
+there's much more to Amsterdam than you might've thought."</string>
+    
+    <string name="cairo">"The desert heat, the noisy streets and the sheer size of Cairo will leave even the most adaptable traveler
+with a serious case of culture shock.
+The constant bombardment of street vendors,
+the inescapable aroma of livestock and the seemingly chaotic way of life will joggle the senses.
+But be patient. Take some time to relax over a cup of tea,
+to wander the ancient streets and to watch the sun lower over the mighty Nile River.
+It won't take long for the city's treasures to reveal themselves."</string>
+
+    <string name="urlreef">http://travel.usnews.com/Great_Barrier_Reef_Australia/</string>
+    <string name="urlparis">http://travel.usnews.com/Paris_France/</string>
+    <string name="urlbora">http://travel.usnews.com/Bora_Bora/</string>
+    <string name="urlflorance">http://travel.usnews.com/Florence_Italy/</string>
+    <string name="urltokyo">http://travel.usnews.com/Tokyo_Japan/</string>
+    <string name="urlitaly">http://travel.usnews.com/Rome_Italy/</string>
+    <string name="urlcape">http://travel.usnews.com/Cape_Town_South_Africa/</string>
+    <string name="urlberca">http://travel.usnews.com/Barcelona_Spain/</string>
+    <string name="urlams">http://travel.usnews.com/Amsterdam_Netherlands/</string>
+    <string name="urlcairo">http://travel.usnews.com/Cairo_Egypt/</string>
+
+</resources>
