@@ -32,10 +32,10 @@
             android:id="@+id/imgPlace1"
             android:layout_marginTop="20dp"
             android:layout_below="@id/txtHeading"
+            android:adjustViewBounds="true"
             android:layout_width="350dp"
             android:layout_height="300dp"
-
-             />
+            android:src="@mipmap/ic_launcher"/>
 
         <TextView
             android:id="@+id/txtDetails1"
@@ -53,7 +53,9 @@
             android:layout_width="350dp"
             android:layout_height="300dp"
             android:layout_below="@id/txtDetails1"
-            android:layout_marginTop="20dp"/>
+            android:adjustViewBounds="true"
+            android:layout_marginTop="20dp"
+            android:src="@mipmap/ic_launcher"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_marginTop="20dp"

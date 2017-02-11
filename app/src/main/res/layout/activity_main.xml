@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    android:scrollbars="vertical"
+    android:scrollbarStyle="insideOverlay"
+    android:scrollbarSize="10dp">
+<RelativeLayout
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
@@ -10,6 +21,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.mdazizulhakim.worldsbestplacestovisit.MainActivity">
 
+
     <TextView
         android:text="Some of World's Best Places to Visit "
         android:textStyle="bold"
@@ -19,15 +31,64 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView" />
 
+
+
+    <ImageView
+        android:layout_below="@+id/textView"
+        android:layout_width="280dp"
+        android:layout_marginTop="20dp"
+        android:layout_height="280dp"
+        app:srcCompat="@drawable/amsterdam1"
+        android:id="@+id/imgAnimation"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
     <ListView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_below="@+id/textView"
-        android:layout_marginTop="20dp"
+        android:layout_height="250dp"
+        android:layout_below="@+id/imgAnimation"
+        android:layout_marginTop="40dp"
         android:listSelector="@android:color/darker_gray"
         android:divider="@android:color/black"
         android:dividerHeight="2dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:id="@+id/placeList" />
+
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:textSize="36sp"
+        android:textStyle="italic"
+        android:layout_below="@+id/placeList"
+        android:text="Importance of travel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+
+    <TextView
+
+        android:text ="What’s sitting at the root of so much that we do wrong in this world? Prejudice, ignorance and bigotry.
+How does this state of mind manifest in us? By being insular, lacking empathy, allowing ourselves to be only familiar with our little corner of the world.
+An antidote?
+
+Travel.
+
+
+When you push yourself out of your comfort zone and take the time to really see a different culture, you start to sip at the antidote of life’s poisonous attitudes.
+Travel exposes you to different perspectives, experiences, history, culture, religions and ultimately, a better self.
+In this video feature below, from the words of the well-travelled, I explore why people travel and what it teaches them.
+Perhaps, you may relate. "
+        android:textStyle="bold"
+        android:layout_marginTop="30sp"
+        android:layout_below="@+id/textView2"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
 </RelativeLayout>
+
+</ScrollView>
